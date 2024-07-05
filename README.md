@@ -34,4 +34,4 @@
 "Искусственный интеллект это новая электричность." — Эндрю Нг
 
 ### 📊 Моя активность на GitHub
-[Click to see](https://activity-graph.herokuapp.com/graph?username=yageraaa&theme=xcode)
+[Click to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
