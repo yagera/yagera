@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет, я Герман 👋
 
-<!--
-**yageraaa/yageraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Добро пожаловать в мой GitHub!
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### 🔥 Моя статистика
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yageraaa&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### 📊 Языки программирования
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📈 Мой вклад в GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=radical)
+
+### 📫 Как со мной связаться
+- Email: yageraaa@gmail.com
+
+### 😄 Приятные факты
+- Высоколассный специалист в области искусственного интеллекта и машинного обучения
+- В моём портфолио много проектов открытого исходного кода.
+
+### 🏆 GitHub Трофеи
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yageraaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📃 Цитата дня
+"Искусственный интеллект это новая электричность." — Эндрю Нг
+
+### 📊 Моя активность на GitHub
+[Click to see](https://activity-graph.herokuapp.com/graph?username=yageraaa&theme=xcode)
