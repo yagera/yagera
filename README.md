@@ -4,12 +4,14 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3dDM0ampzOHE0azA0ZnVuNGI5Nm1zbDh5d2xidDJhanViMHFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" alt="AI GIF">
 </p>
 
-Меня зовут **Герман**, и я увлечен обработкой естественного языка (NLP) и разработкой в этой области.
+### Меня зовут **Герман**, и я увлечен обработкой естественного языка (NLP) и разработкой в этой области.
 
 - 🔭 Сейчас работаю над: созданием собственного трансформера по переводу с русского на английский
 - 🌱 Изучаю: продвинутые модели NLP и методы их оптимизации
 - 👯 Ищу возможность сотрудничества в проектах с открытым исходным кодом по NLP
 - 📫 Как связаться со мной: yageraaa@gmail.com
+
+---
 
 
 ### 🛠 Технологии и инструменты
@@ -30,30 +32,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </p>
 
+---
 
-## 📊 Статистика GitHub:
+<div align="center"> <h3>🔥 My Stats</h3></div>
+<div align="center" dir="auto">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=highcontrast" alt="Статистика GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yageraaa&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=highcontrast" alt="Топ языков" />
-</p>
-
-## 🔥 Мой вклад:
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yageraaa&theme=high-contrast)](https://github.com/yageraaa)
+---
 
 ## 🏆 Трофеи GitHub:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yageraaa&theme=dark_lover&no-frame=true&row=1&column=6" alt="Трофеи GitHub" />
 </p>
-
-### 📊 Моя активность на GitHub
-[Click to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
