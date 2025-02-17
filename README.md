@@ -1,27 +1,44 @@
-# Привет, я Герман 👋
+# Привет! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
 
-## Добро пожаловать в мой GitHub!
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3dDM0ampzOHE0azA0ZnVuNGI5Nm1zbDh5d2xidDJhanViMHFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" alt="AI GIF">
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
+Меня зовут **Герман**, и я увлечен обработкой естественного языка (NLP) и разработкой в этой области.
+
+- 🔭 Сейчас работаю над: созданием собственного трансформера по переводу с русского на английский
+- 🌱 Изучаю: продвинутые модели NLP и методы их оптимизации
+- 👯 Ищу возможность сотрудничества в проектах с открытым исходным кодом по NLP
+- 📫 Как связаться со мной: yageraaa@gmail.com
+
 
 ### 🛠 Технологии и инструменты
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FDEE00?style=flat&logo=HuggingFace&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-9C27B0?style=flat&logo=ApacheSpark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=Probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gensim-00758F?style=flat&logo=GnuPrivacyGuard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+</p>
+
 
 ### 🔥 Моя статистика
-[![GitHub Streak](https://streak-stats.demolab.com?user=yageraaa&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yageraaa&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### 📊 Языки программирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Мой вклад в GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=vision-friendly-dark)
-
-### 📫 Как со мной связаться
-- Email: yageraaa@gmail.com
 
 ### 🏆 GitHub Трофеи
 [![Trophy](https://github-profile-trophy.vercel.app/?username=yageraaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
