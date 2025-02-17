@@ -1,20 +1,20 @@
-# Привет! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
+# Hello! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3dDM0ampzOHE0azA0ZnVuNGI5Nm1zbDh5d2xidDJhanViMHFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" alt="AI GIF">
 </p>
 
-### Меня зовут **Герман**, и я увлечен обработкой естественного языка (NLP) и разработкой в этой области.
+### My name is **German**, and I'm passionate about Machine Learning, particularly Natural Language Processing.
 
-- 🔭 Сейчас работаю над: созданием собственного трансформера по переводу с русского на английский
-- 🌱 Изучаю: продвинутые модели NLP и методы их оптимизации
-- 👯 Ищу возможность сотрудничества в проектах с открытым исходным кодом по NLP
-- 📫 Как связаться со мной: yageraaa@gmail.com
+- 🔭 I’m currently working on: building my own transformer for Russian-to-English translation
+- 🌱 I’m currently learning: advanced NLP models and their optimization methods
+- 👯 I’m looking to collaborate on: open-source NLP projects
+- 📫 How to reach me: yageraaa@gmail.com
 
 ---
 
 
-### 🛠 Технологии и инструменты
+### 🛠 Technologies and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 Трофеи GitHub:
+## 🏆 GitHub Trophiea:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yageraaa&theme=dark_lover&no-frame=true&row=1&column=6" alt="Трофеи GitHub" />
