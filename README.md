@@ -12,7 +12,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### 🔥 Моя статистика
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yageraaa)](https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yageraaa)](https://git.io/streak-stats)
 
 ### 📊 Языки программирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
