@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Мой вклад в GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=vision-friendly-dark)
 
 ### 📫 Как со мной связаться
 - Email: yageraaa@gmail.com
