@@ -31,17 +31,29 @@
 </p>
 
 
-### 🔥 Моя статистика
-[![GitHub Streak](https://streak-stats.demolab.com?user=yageraaa&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## 📊 Статистика GitHub:
 
-### 📊 Языки программирования
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=highcontrast" alt="Статистика GitHub" />
+</p>
 
-### 📈 Мой вклад в GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yageraaa&show_icons=true&theme=vision-friendly-dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yageraaa&theme=highcontrast" alt="GitHub Streak" />
+</p>
 
-### 🏆 GitHub Трофеи
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yageraaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yageraaa&layout=compact&theme=highcontrast" alt="Топ языков" />
+</p>
+
+## 🔥 Мой вклад:
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yageraaa&theme=high-contrast)](https://github.com/yageraaa)
+
+## 🏆 Трофеи GitHub:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yageraaa&theme=dark_lover&no-frame=true&row=1&column=6" alt="Трофеи GitHub" />
+</p>
 
 ### 📊 Моя активность на GitHub
 [Click to see](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
