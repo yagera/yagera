@@ -6,7 +6,7 @@
 
 ### My name is **German**, and I'm passionate about Machine Learning, particularly Natural Language Processing.
 
-- 🔭 I’m currently working on: building my own transformer for Russian-to-English translation
+- 🔭 I’m currently working on: [building my own transformer for Russian-to-English translation](https://github.com/yageraaa/Transformer)
 - 🌱 I’m currently learning: advanced NLP models and their optimization methods
 - 👯 I’m looking to collaborate on: open-source NLP projects
 - 📫 How to reach me: yageraaa@gmail.com
