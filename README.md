@@ -6,7 +6,7 @@
 
 ### My name is **German**, and I'm passionate about Machine Learning, particularly Natural Language Processing.
 
-- 🔭 I’m currently working on: [building my own transformer for Russian-to-English translation](https://github.com/yageraaa/Transformer)
+- 🔭 I’m currently working on: [building my own transformer for Russian-to-English translation](https://github.com/yagera/Transformer)
 - 🌱 I’m currently learning: advanced NLP models and their optimization methods
 - 👯 I’m looking to collaborate on: open-source NLP projects
 - 📫 How to reach me: yageraaa@gmail.com
@@ -36,11 +36,11 @@
 
 <div align="center"> <h3>🔥 My Stats</h3></div>
 <div align="center" dir="auto">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
-  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yageraaa&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yagera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
 </div>
 
 
@@ -49,5 +49,5 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yageraaa&theme=dark_lover&no-frame=true&row=1&column=6" alt="Трофеи GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yagera&theme=dark_lover&no-frame=true&row=1&column=6" alt="Трофеи GitHub" />
 </p>
