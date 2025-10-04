@@ -1,4 +1,4 @@
-# Hello! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
+# Yo! 👋 ![Profile Views](https://komarev.com/ghpvc/?username=yageraaa&style=flat-square&color=blue)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXN3dDM0ampzOHE0azA0ZnVuNGI5Nm1zbDh5d2xidDJhanViMHFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" alt="AI GIF">
